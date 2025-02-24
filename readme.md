@@ -1,6 +1,6 @@
 # Codo File - Code Edior with extending features.
 
- ### **[Live Demo ](https://codofile-85b0c.web.app/)**
+ 
     1. It is Basically a Code Editor Which can Execute Javascript, Python and Dart Code. 
 
     2 .It have Two Features:
@@ -10,10 +10,7 @@
     
     3 Do try this Code Editor andd give your Precious Feedback .(feedback form already available in home page of CodoFile Page ).
 
- ## Preview 
 
- ### 1. *[Frontend Demo](https://codofile-85b0c.web.app/)*
- ### 2. *[Backend Demo](https://codofile-backend.onrender.com/)*
   
   ## Requirement
 
@@ -83,14 +80,9 @@
   ### 10. Register Page
   ![RegisterPage](./documentation/Project%20Assets/RegisterPage.PNG)
 
-## [ B ] Contributor
 
-### - This Whole Project Solely Belong to **[Faizan Alam](https://faizan619.github.io/Faizan_Portfolio/)**.
 
-## Contact Information
 
- ###  ![Instagram](./documentation/Project%20Assets/icons8-github-20.png) [Github](https://github.com/faizan619)  
- ###  ![Linkedin](./documentation/Project%20Assets/icons8-linkedin-20.png) [Linkedin](https://www.linkedin.com/in/faizan-alam-/)
 ### ![Gmail](./documentation/Project%20Assets/icons8-gmail-20.png)  [Gmail](alamf6023@gmail.com)
 ### ![instagram](./documentation/Project%20Assets/icons8-instagram-20.png)  [Instagram](https://www.instagram.com/faizan_alam_._/)
 
